@@ -5,5 +5,6 @@ public class Solution3 {
         System.out.println("Hello world!");
         // Solution 1
         // Solution 2
+        // Solution test for Bee
     }
 }
