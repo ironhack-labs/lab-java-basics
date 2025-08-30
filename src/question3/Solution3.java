@@ -6,5 +6,6 @@ public class Solution3 {
         // Solution 1
         // Solution 2
         // Solution test for Bee
+        // Solution to test quick
     }
 }
