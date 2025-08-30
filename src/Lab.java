@@ -3,6 +3,18 @@ public class Lab {
         System.out.println("Hello world!");
         // Solution 1
         // Solution 2
+///
+
+
+
+
+
+
+
+
+
+
+
 
     }
 }

@@ -5,7 +5,5 @@ public class Main {
         System.out.println("Hello world!");
         // Solution 1
         // Solution 2
-        // Solution 3
-        // Solution 4
     }
 }
