@@ -11,6 +11,7 @@ public class Main {
             if (num > max) max = num;
         }
 
+        
         return max - min;
     }
 
