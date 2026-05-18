@@ -36,9 +36,10 @@ Practice Java fundamentals through the implementation of array algorithms, class
 
 ### Index
 
-| Version | Date       | Description                             |
-|---------|------------|-----------------------------------------|
-| v1.0.0  | 2026-05-18 | Initial submission. 5 tasks completed. |
+| Version | Date       | Description                              |
+|---------|------------|------------------------------------------|
+| v1.0.0  | 2026-05-18 | Initial submission. 5 tasks completed.  |
+| v1.1.0  | 2026-05-18 | Comments added to all classes.          |
 
 ---
 
@@ -51,6 +52,18 @@ Practice Java fundamentals through the implementation of array algorithms, class
 - T3: Fantastic. Well-structured class with a useful toString() method.
 - T4: Well done. Correct inheritance and salary limit validated.
 - T5: Excellent. Correct use of both employee types.
+
+---
+
+#### v1.1.0
+
+### Feedback received
+
+- T1: Excellent. Efficient implementation using a single loop for both max and min.
+- T2: Excellent. Impeccable logic handling equal or similar values.
+- T3: Fantastic. Well-structured class with clean encapsulation and readable toString().
+- T4: Well done. Correct inheritance, salary cap enforced with informative warning.
+- T5: Excellent. Polymorphism demonstrated with both Employee and Intern types. Great attention to detail.
 
 ---------------------------------------------------------
 
@@ -92,8 +105,6 @@ Practicar fundamentos de Java mediante la implementación de algoritmos con arra
 
 ---
 
-
-
 ## Temporalización
 
 - **Fecha:** 2026-05-18
@@ -113,18 +124,19 @@ Practicar fundamentos de Java mediante la implementación de algoritmos con arra
 
 ---
 
-
 ## Versionado
 
 ### Índice
 
-| Versión | Fecha      | Descripción                        |
-|---------|------------|------------------------------------|
-| v1.0.0  | 2026-05-18 | Entrega inicial. 5 tareas completadas. |
+| Versión | Fecha      | Descripción                              |
+|---------|------------|------------------------------------------|
+| v1.0.0  | 2026-05-18 | Entrega inicial. 5 tareas completadas.  |
+| v1.1.0  | 2026-05-18 | Comentarios añadidos a todas las clases. |
 
 ---
 
 #### v1.0.0
+
 ### Feedback recibido
 
 - T1: Excelente. Implementación sólida y eficiente.
@@ -132,6 +144,18 @@ Practicar fundamentos de Java mediante la implementación de algoritmos con arra
 - T3: Fantástico. Clase bien estructurada con toString() útil.
 - T4: Bien hecho. Herencia correcta y límite salarial validado.
 - T5: Excelente. Uso correcto de ambos tipos de empleados.
+
+---
+
+#### v1.1.0
+
+### Feedback recibido
+
+- T1: Excelente. Implementación eficiente con un solo bucle para máximo y mínimo.
+- T2: Excelente. Lógica impecable que maneja valores iguales o similares.
+- T3: Fantástico. Clase bien estructurada con encapsulamiento limpio y toString() legible.
+- T4: Bien hecho. Herencia correcta, límite salarial aplicado con advertencia informativa.
+- T5: Excelente. Polimorfismo demostrado con ambos tipos de empleados. Gran atención al detalle.
 
 ---------------------------------------------------------
 
